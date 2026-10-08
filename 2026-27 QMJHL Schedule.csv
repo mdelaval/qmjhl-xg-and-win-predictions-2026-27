@@ -1,0 +1,581 @@
+#,Date,Away Team,Away Goals,Home Team,Home Goals,Status,Game Centre
+1,2026-09-18,Saint John,4.0,Newfoundland,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32940/
+2,2026-09-18,Halifax,5.0,Cape Breton,4.0,Final SO,https://chl.ca/lhjmq/en/gamecentre/32715/
+3,2026-09-18,Moncton,4.0,Charlottetown,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/32747/
+6,2026-09-18,Shawinigan,5.0,Chicoutimi,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32779/
+4,2026-09-18,Rimouski,4.0,Baie-Comeau,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32651/
+8,2026-09-18,Val-d'Or,4.0,Victoriaville,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/33199/
+5,2026-09-18,Rouyn-Noranda,3.0,Blainville-Boisbriand,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32683/
+7,2026-09-18,Québec,1.0,Sherbrooke,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/33134/
+9,2026-09-19,Rimouski,5.0,Baie-Comeau,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32652/
+11,2026-09-19,Rouyn-Noranda,2.0,Gatineau,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/32843/
+10,2026-09-19,Val-d'Or,6.0,Blainville-Boisbriand,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/32684/
+12,2026-09-19,Drummondville,4.0,Sherbrooke,5.0,Final,https://chl.ca/lhjmq/en/gamecentre/33135/
+13,2026-09-19,Saint John,2.0,Newfoundland,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/32941/
+14,2026-09-19,Moncton,6.0,Halifax,5.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32875/
+15,2026-09-20,Charlottetown,4.0,Cape Breton,3.0,Final SO,https://chl.ca/lhjmq/en/gamecentre/32716/
+16,2026-09-20,Shawinigan,1.0,Gatineau,5.0,Final,https://chl.ca/lhjmq/en/gamecentre/32844/
+17,2026-09-20,Québec,5.0,Chicoutimi,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32780/
+18,2026-09-20,Drummondville,7.0,Victoriaville,8.0,Final,https://chl.ca/lhjmq/en/gamecentre/33200/
+19,2026-09-25,Halifax,4.0,Newfoundland,3.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32942/
+20,2026-09-25,Cape Breton,1.0,Charlottetown,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/32748/
+21,2026-09-25,Moncton,4.0,Saint John,3.0,Final SO,https://chl.ca/lhjmq/en/gamecentre/33070/
+24,2026-09-25,Shawinigan,3.0,Québec,7.0,Final,https://chl.ca/lhjmq/en/gamecentre/32974/
+22,2026-09-25,Chicoutimi,5.0,Baie-Comeau,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/32653/
+25,2026-09-25,Drummondville,0.0,Rouyn-Noranda,6.0,Final,https://chl.ca/lhjmq/en/gamecentre/33038/
+23,2026-09-25,Blainville-Boisbriand,3.0,Gatineau,2.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32845/
+26,2026-09-25,Sherbrooke,7.0,Victoriaville,1.0,Final,https://chl.ca/lhjmq/en/gamecentre/33201/
+27,2026-09-26,Cape Breton,5.0,Saint John,4.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/33071/
+29,2026-09-26,Shawinigan,2.0,Rimouski,13.0,Final,https://chl.ca/lhjmq/en/gamecentre/33006/
+30,2026-09-26,Drummondville,1.0,Val-d'Or,5.0,Final,https://chl.ca/lhjmq/en/gamecentre/33167/
+28,2026-09-26,Sherbrooke,2.0,Blainville-Boisbriand,3.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32685/
+31,2026-09-26,Halifax,0.0,Newfoundland,6.0,Final,https://chl.ca/lhjmq/en/gamecentre/32943/
+32,2026-09-26,Charlottetown,3.0,Moncton,4.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32908/
+33,2026-09-27,Rimouski,4.0,Québec,5.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32975/
+34,2026-09-27,Baie-Comeau,0.0,Chicoutimi,6.0,Final,https://chl.ca/lhjmq/en/gamecentre/32781/
+35,2026-09-27,Val-d'Or,1.0,Rouyn-Noranda,2.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/33039/
+36,2026-09-27,Gatineau,5.0,Victoriaville,7.0,Final,https://chl.ca/lhjmq/en/gamecentre/33202/
+37,2026-09-30,Charlottetown,5.0,Victoriaville,6.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/33203/
+38,2026-10-01,Charlottetown,5.0,Chicoutimi,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/32782/
+39,2026-10-01,Shawinigan,2.0,Gatineau,3.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32846/
+40,2026-10-01,Rimouski,4.0,Sherbrooke,5.0,Final,https://chl.ca/lhjmq/en/gamecentre/33136/
+42,2026-10-02,Halifax,3.0,Moncton,4.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32909/
+41,2026-10-02,Saint John,4.0,Cape Breton,3.0,Final SO,https://chl.ca/lhjmq/en/gamecentre/32717/
+43,2026-10-02,Charlottetown,6.0,Baie-Comeau,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/32654/
+44,2026-10-02,Québec,4.0,Blainville-Boisbriand,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/32686/
+45,2026-10-02,Rimouski,4.0,Sherbrooke,3.0,Final,https://chl.ca/lhjmq/en/gamecentre/33137/
+46,2026-10-03,Victoriaville,5.0,Baie-Comeau,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32655/
+48,2026-10-03,Gatineau,2.0,Val-d'Or,3.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/33168/
+47,2026-10-03,Drummondville,3.0,Blainville-Boisbriand,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32687/
+49,2026-10-03,Rouyn-Noranda,2.0,Newfoundland,3.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32944/
+50,2026-10-04,Rouyn-Noranda,2.0,Newfoundland,3.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/32945/
+51,2026-10-04,Moncton,2.0,Cape Breton,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/32718/
+52,2026-10-04,Halifax,3.0,Saint John,4.0,Final OT,https://chl.ca/lhjmq/en/gamecentre/33072/
+54,2026-10-04,Charlottetown,5.0,Rimouski,8.0,Final,https://chl.ca/lhjmq/en/gamecentre/33007/
+55,2026-10-04,Gatineau,5.0,Val-d'Or,4.0,Final,https://chl.ca/lhjmq/en/gamecentre/33169/
+53,2026-10-04,Blainville-Boisbriand,0.0,Québec,7.0,Final,https://chl.ca/lhjmq/en/gamecentre/32976/
+56,2026-10-04,Victoriaville,3.0,Chicoutimi,2.0,Final,https://chl.ca/lhjmq/en/gamecentre/32783/
+58,2026-10-07,Shawinigan,,Victoriaville,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33204/
+57,2026-10-07,Newfoundland,,Blainville-Boisbriand,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32688/
+60,2026-10-08,Drummondville,,Moncton,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32910/
+59,2026-10-08,Rouyn-Noranda,,Halifax,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32876/
+61,2026-10-09,Drummondville,,Charlottetown,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32749/
+62,2026-10-09,Rouyn-Noranda,,Saint John,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33073/
+63,2026-10-09,Cape Breton,,Chicoutimi,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32784/
+65,2026-10-09,Newfoundland,,Rimouski,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33008/
+64,2026-10-09,Baie-Comeau,,Gatineau,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32847/
+66,2026-10-09,Blainville-Boisbriand,,Val-d'Or,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33170/
+67,2026-10-10,Charlottetown,,Saint John,,4:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33074/
+68,2026-10-10,Cape Breton,,Québec,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32977/
+69,2026-10-10,Newfoundland,,Rimouski,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33009/
+70,2026-10-10,Baie-Comeau,,Sherbrooke,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33138/
+72,2026-10-10,Rouyn-Noranda,,Moncton,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32911/
+71,2026-10-10,Drummondville,,Halifax,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32877/
+74,2026-10-11,Chicoutimi,,Québec,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32978/
+73,2026-10-11,Val-d'Or,,Gatineau,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32848/
+75,2026-10-12,Rouyn-Noranda,,Charlottetown,,2:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32750/
+79,2026-10-12,Drummondville,,Saint John,,3:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33075/
+77,2026-10-12,Chicoutimi,,Gatineau,,2:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32849/
+76,2026-10-12,Victoriaville,,Blainville-Boisbriand,,2:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32689/
+78,2026-10-12,Cape Breton,,Sherbrooke,,2:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33139/
+80,2026-10-12,Newfoundland,,Shawinigan,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33102/
+81,2026-10-14,Val-d'Or,,Charlottetown,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32751/
+82,2026-10-15,Newfoundland,,Baie-Comeau,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32656/
+84,2026-10-16,Shawinigan,,Moncton,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32912/
+83,2026-10-16,Val-d'Or,,Halifax,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32878/
+87,2026-10-16,Gatineau,,Québec,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32979/
+85,2026-10-16,Newfoundland,,Baie-Comeau,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32657/
+88,2026-10-16,Blainville-Boisbriand,,Rouyn-Noranda,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33040/
+86,2026-10-16,Victoriaville,,Drummondville,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32811/
+89,2026-10-17,Cape Breton,,Saint John,,4:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33076/
+90,2026-10-17,Sherbrooke,,Chicoutimi,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32785/
+91,2026-10-17,Gatineau,,Rimouski,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33010/
+92,2026-10-17,Blainville-Boisbriand,,Rouyn-Noranda,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33041/
+94,2026-10-17,Val-d'Or,,Moncton,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32913/
+93,2026-10-17,Shawinigan,,Charlottetown,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32752/
+95,2026-10-18,Shawinigan,,Halifax,,3:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32879/
+96,2026-10-18,Val-d'Or,,Saint John,,3:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33077/
+97,2026-10-18,Chicoutimi,,Rimouski,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33011/
+98,2026-10-18,Sherbrooke,,Baie-Comeau,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32658/
+99,2026-10-18,Newfoundland,,Drummondville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32812/
+100,2026-10-18,Québec,,Victoriaville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33205/
+101,2026-10-22,Sherbrooke,,Victoriaville,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33206/
+102,2026-10-23,Cape Breton,,Halifax,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32880/
+104,2026-10-23,Baie-Comeau,,Chicoutimi,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32786/
+106,2026-10-23,Québec,,Rouyn-Noranda,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33042/
+105,2026-10-23,Saint John,,Gatineau,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32850/
+103,2026-10-23,Rimouski,,Blainville-Boisbriand,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32690/
+107,2026-10-23,Moncton,,Sherbrooke,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33140/
+110,2026-10-24,Rimouski,,Shawinigan,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33103/
+109,2026-10-24,Moncton,,Drummondville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32813/
+111,2026-10-24,Québec,,Val-d'Or,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33171/
+108,2026-10-24,Saint John,,Blainville-Boisbriand,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32691/
+112,2026-10-24,Victoriaville,,Newfoundland,,7:00 pm NDT,https://chl.ca/lhjmq/en/gamecentre/32946/
+113,2026-10-24,Charlottetown,,Halifax,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32881/
+114,2026-10-25,Victoriaville,,Newfoundland,,3:00 pm NDT,https://chl.ca/lhjmq/en/gamecentre/32947/
+115,2026-10-25,Charlottetown,,Cape Breton,,3:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32719/
+116,2026-10-25,Blainville-Boisbriand,,Gatineau,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32851/
+117,2026-10-25,Québec,,Val-d'Or,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33172/
+118,2026-10-25,Chicoutimi,,Baie-Comeau,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32659/
+120,2026-10-25,Moncton,,Shawinigan,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33104/
+119,2026-10-25,Saint John,,Drummondville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32814/
+121,2026-10-29,Halifax,,Gatineau,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32852/
+122,2026-10-30,Charlottetown,,Newfoundland,,7:00 pm NDT,https://chl.ca/lhjmq/en/gamecentre/32948/
+123,2026-10-30,Cape Breton,,Moncton,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32914/
+125,2026-10-30,Drummondville,,Rimouski,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33012/
+127,2026-10-30,Shawinigan,,Val-d'Or,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33173/
+124,2026-10-30,Gatineau,,Blainville-Boisbriand,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32692/
+126,2026-10-30,Chicoutimi,,Sherbrooke,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33141/
+131,2026-10-31,Charlottetown,,Newfoundland,,3:00 pm NDT,https://chl.ca/lhjmq/en/gamecentre/32949/
+129,2026-10-31,Baie-Comeau,,Québec,,2:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32980/
+130,2026-10-31,Shawinigan,,Rouyn-Noranda,,2:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33043/
+128,2026-10-31,Chicoutimi,,Blainville-Boisbriand,,2:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32693/
+132,2026-10-31,Moncton,,Saint John,,4:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33078/
+133,2026-10-31,Halifax,,Victoriaville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33207/
+136,2026-11-01,Saint John,,Cape Breton,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32720/
+134,2026-11-01,Val-d'Or,,North Bay - OHL,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32972/
+135,2026-11-01,Rouyn-Noranda,,Sudbury - OHL,,2:05 pm EST,https://chl.ca/lhjmq/en/gamecentre/33166/
+137,2026-11-01,Baie-Comeau,,Québec,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32981/
+138,2026-11-01,Halifax,,Sherbrooke,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33142/
+139,2026-11-01,Gatineau,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32815/
+140,2026-11-01,Rimouski,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33208/
+141,2026-11-05,Moncton,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32950/
+143,2026-11-05,Gatineau,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33044/
+142,2026-11-05,Rimouski,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32816/
+144,2026-11-06,Moncton,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32951/
+145,2026-11-06,Cape Breton,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32882/
+147,2026-11-06,Rimouski,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32982/
+146,2026-11-06,Blainville-Boisbriand,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32787/
+148,2026-11-06,Gatineau,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33045/
+149,2026-11-06,Shawinigan,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33143/
+151,2026-11-07,Drummondville,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32788/
+150,2026-11-07,Blainville-Boisbriand,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32660/
+152,2026-11-07,Victoriaville,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33174/
+154,2026-11-07,Saint John,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32883/
+153,2026-11-07,Cape Breton,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32753/
+155,2026-11-08,Saint John,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32754/
+156,2026-11-08,Cape Breton,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32915/
+157,2026-11-08,Québec,,Rimouski,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33013/
+158,2026-11-08,Gatineau,,Val-d'Or,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33175/
+159,2026-11-08,Drummondville,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32661/
+160,2026-11-08,Victoriaville,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33046/
+161,2026-11-08,Sherbrooke,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33105/
+162,2026-11-11,Québec,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32916/
+163,2026-11-12,Québec,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33079/
+165,2026-11-12,Drummondville,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33106/
+164,2026-11-12,Baie-Comeau,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32694/
+168,2026-11-13,Saint John,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32917/
+166,2026-11-13,Newfoundland,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32721/
+167,2026-11-13,Rimouski,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32755/
+169,2026-11-13,Shawinigan,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32817/
+170,2026-11-13,Rouyn-Noranda,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33176/
+171,2026-11-13,Baie-Comeau,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33209/
+172,2026-11-14,Chicoutimi,,Gatineau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32853/
+173,2026-11-14,Sherbrooke,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33177/
+174,2026-11-14,Blainville-Boisbriand,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33210/
+177,2026-11-14,Rimouski,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32918/
+175,2026-11-14,Newfoundland,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32722/
+176,2026-11-14,Québec,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32884/
+179,2026-11-15,Newfoundland,,Halifax,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32885/
+178,2026-11-15,Québec,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32756/
+180,2026-11-15,Rimouski,,Saint John,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33080/
+181,2026-11-15,Baie-Comeau,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32695/
+183,2026-11-15,Sherbrooke,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33047/
+184,2026-11-15,Gatineau,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33107/
+182,2026-11-15,Chicoutimi,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32818/
+185,2026-11-18,Cape Breton,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33211/
+186,2026-11-19,Newfoundland,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32757/
+187,2026-11-19,Rouyn-Noranda,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32662/
+188,2026-11-19,Val-d'Or,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33144/
+190,2026-11-20,Saint John,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32919/
+189,2026-11-20,Newfoundland,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32758/
+195,2026-11-20,Cape Breton,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32983/
+191,2026-11-20,Rouyn-Noranda,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32663/
+196,2026-11-20,Victoriaville,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33014/
+194,2026-11-20,Ottawa - OHL,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32854/
+197,2026-11-20,Sherbrooke,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33108/
+193,2026-11-20,Val-d'Or,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32819/
+192,2026-11-20,Halifax,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32696/
+198,2026-11-21,Moncton,,Saint John,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33081/
+199,2026-11-21,Cape Breton,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32789/
+200,2026-11-21,Halifax,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33109/
+201,2026-11-22,Blainville-Boisbriand,,Kingston - OHL,,2:05 pm EST,https://chl.ca/lhjmq/en/gamecentre/32907/
+202,2026-11-22,Newfoundland,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32920/
+204,2026-11-22,Québec,,Rimouski,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33015/
+203,2026-11-22,Gatineau,,Ottawa - OHL,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32973/
+205,2026-11-22,Victoriaville,,Sherbrooke,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33145/
+206,2026-11-22,Rouyn-Noranda,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32790/
+207,2026-11-22,Halifax,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32820/
+208,2026-11-25,Shawinigan,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32821/
+209,2026-11-25,Charlottetown,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33146/
+210,2026-11-26,Chicoutimi,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32952/
+211,2026-11-26,Blainville-Boisbriand,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32723/
+212,2026-11-26,Charlottetown,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32855/
+213,2026-11-26,Saint John,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33178/
+214,2026-11-27,Chicoutimi,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32953/
+215,2026-11-27,Blainville-Boisbriand,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32724/
+216,2026-11-27,Moncton,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32886/
+218,2026-11-27,Drummondville,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32984/
+219,2026-11-27,Sherbrooke,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33016/
+220,2026-11-27,Saint John,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33048/
+217,2026-11-27,Victoriaville,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32856/
+221,2026-11-27,Baie-Comeau,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33110/
+222,2026-11-28,Sherbrooke,,Rimouski,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33017/
+223,2026-11-28,Baie-Comeau,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33111/
+224,2026-11-28,Charlottetown,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33179/
+225,2026-11-29,Blainville-Boisbriand,,Halifax,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32887/
+226,2026-11-29,Moncton,,Cape Breton,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32725/
+228,2026-11-29,Chicoutimi,,Québec,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32985/
+227,2026-11-29,Drummondville,,Gatineau,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32857/
+229,2026-11-29,Charlottetown,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33049/
+230,2026-11-29,Saint John,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33212/
+231,2026-12-03,Sherbrooke,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32822/
+233,2026-12-04,Baie-Comeau,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32921/
+232,2026-12-04,Gatineau,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32759/
+234,2026-12-04,Halifax,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33082/
+236,2026-12-04,Rimouski,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32791/
+237,2026-12-04,Val-d'Or,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33213/
+235,2026-12-04,Shawinigan,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32697/
+238,2026-12-05,Baie-Comeau,,Saint John,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33083/
+241,2026-12-05,Rouyn-Noranda,,Québec,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32986/
+239,2026-12-05,Rimouski,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32792/
+240,2026-12-05,Victoriaville,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32823/
+242,2026-12-05,Val-d'Or,,Sherbrooke,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33147/
+243,2026-12-05,Cape Breton,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32954/
+244,2026-12-05,Gatineau,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32922/
+245,2026-12-06,Cape Breton,,Newfoundland,,3:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32955/
+247,2026-12-06,Gatineau,,Halifax,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32888/
+246,2026-12-06,Baie-Comeau,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32760/
+249,2026-12-06,Victoriaville,,Québec,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32987/
+248,2026-12-06,Val-d'Or,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32698/
+250,2026-12-06,Rouyn-Noranda,,Sherbrooke,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33148/
+251,2026-12-06,Drummondville,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33112/
+253,2026-12-09,Newfoundland,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33084/
+252,2026-12-10,Halifax,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32726/
+254,2026-12-10,Québec,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32664/
+256,2026-12-10,Chicoutimi,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33050/
+255,2026-12-10,Moncton,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32858/
+257,2026-12-11,Charlottetown,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32727/
+258,2026-12-11,Québec,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32665/
+259,2026-12-11,Blainville-Boisbriand,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33018/
+260,2026-12-11,Victoriaville,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33113/
+262,2026-12-11,Sherbrooke,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32824/
+261,2026-12-11,Chicoutimi,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33180/
+263,2026-12-12,Blainville-Boisbriand,,Rimouski,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33019/
+264,2026-12-12,Chicoutimi,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33051/
+265,2026-12-12,Moncton,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33181/
+266,2026-12-12,Newfoundland,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32889/
+267,2026-12-13,Saint John,,Halifax,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32890/
+268,2026-12-13,Newfoundland,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32761/
+269,2026-12-13,Gatineau,,Québec,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32988/
+271,2026-12-13,Moncton,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33052/
+489,2026-12-13,Sherbrooke,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33127/
+272,2026-12-13,Drummondville,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33214/
+273,2026-12-16,Saint John,,Charlottetown,,11:00 am AST,https://chl.ca/lhjmq/en/gamecentre/32762/
+274,2026-12-16,Newfoundland,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32728/
+276,2026-12-16,Québec,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32793/
+275,2026-12-16,Gatineau,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32699/
+277,2026-12-17,Halifax,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32923/
+279,2026-12-17,Baie-Comeau,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33020/
+280,2026-12-17,Val-d'Or,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33114/
+278,2026-12-17,Rouyn-Noranda,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32825/
+282,2026-12-18,Charlottetown,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32924/
+281,2026-12-18,Newfoundland,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32891/
+283,2026-12-18,Cape Breton,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33085/
+287,2026-12-18,Baie-Comeau,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33021/
+286,2026-12-18,Sherbrooke,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32859/
+288,2026-12-18,Rouyn-Noranda,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33115/
+285,2026-12-18,Val-d'Or,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32826/
+289,2026-12-18,Chicoutimi,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33215/
+284,2026-12-18,Québec,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32700/
+292,2026-12-28,Newfoundland,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32925/
+290,2026-12-28,Saint John,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32729/
+291,2026-12-28,Halifax,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32763/
+296,2026-12-28,Chicoutimi,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33022/
+295,2026-12-28,Rouyn-Noranda,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32860/
+297,2026-12-28,Québec,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33116/
+294,2026-12-28,Baie-Comeau,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32827/
+293,2026-12-28,Val-d'Or,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32701/
+298,2026-12-28,Victoriaville,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33150/
+300,2026-12-29,Shawinigan,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33216/
+299,2026-12-29,Baie-Comeau,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33151/
+301,2026-12-30,Halifax,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32730/
+302,2026-12-30,Newfoundland,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33086/
+304,2026-12-30,Rimouski,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32989/
+305,2026-12-30,Val-d'Or,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33053/
+303,2026-12-30,Gatineau,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32828/
+307,2026-12-31,Cape Breton,,Halifax,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32892/
+309,2026-12-31,Newfoundland,,Saint John,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33087/
+310,2026-12-31,Drummondville,,Québec,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32990/
+306,2026-12-31,Chicoutimi,,Baie-Comeau,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32666/
+311,2026-12-31,Blainville-Boisbriand,,Shawinigan,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33117/
+313,2026-12-31,Rouyn-Noranda,,Val-d'Or,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33182/
+314,2026-12-31,Rimouski,,Victoriaville,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33217/
+312,2026-12-31,Gatineau,,Sherbrooke,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33152/
+308,2026-12-31,Charlottetown,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32926/
+319,2027-01-02,Cape Breton,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32927/
+315,2027-01-02,Charlottetown,,Saint John,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33088/
+316,2027-01-02,Shawinigan,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32794/
+317,2027-01-02,Sherbrooke,,Gatineau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32861/
+318,2027-01-02,Blainville-Boisbriand,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33183/
+320,2027-01-03,Newfoundland,,Halifax,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32893/
+321,2027-01-03,Moncton,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32764/
+322,2027-01-03,Québec,,Rimouski,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33023/
+323,2027-01-03,Baie-Comeau,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32795/
+324,2027-01-03,Blainville-Boisbriand,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33054/
+325,2027-01-03,Drummondville,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33218/
+326,2027-01-04,Victoriaville,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33118/
+327,2027-01-07,Saint John,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32731/
+328,2027-01-07,Baie-Comeau,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32894/
+330,2027-01-07,Moncton,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33024/
+329,2027-01-07,Val-d'Or,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32862/
+331,2027-01-07,Blainville-Boisbriand,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33219/
+332,2027-01-08,Halifax,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32765/
+333,2027-01-08,Victoriaville,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32991/
+334,2027-01-08,Rouyn-Noranda,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33025/
+335,2027-01-08,Chicoutimi,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33119/
+336,2027-01-08,Drummondville,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33153/
+339,2027-01-09,Rouyn-Noranda,,Québec,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32992/
+338,2027-01-09,Shawinigan,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32829/
+337,2027-01-09,Moncton,,Blainville-Boisbriand,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32702/
+340,2027-01-09,Val-d'Or,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32956/
+341,2027-01-09,Baie-Comeau,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32732/
+342,2027-01-09,Saint John,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32766/
+343,2027-01-10,Charlottetown,,Halifax,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32895/
+344,2027-01-10,Val-d'Or,,Newfoundland,,3:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32957/
+345,2027-01-10,Baie-Comeau,,Cape Breton,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32733/
+346,2027-01-10,Blainville-Boisbriand,,Gatineau,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32863/
+347,2027-01-10,Shawinigan,,Sherbrooke,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33154/
+348,2027-01-10,Rimouski,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32796/
+349,2027-01-10,Rouyn-Noranda,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32830/
+350,2027-01-10,Moncton,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33220/
+351,2027-01-13,Sherbrooke,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32797/
+368,2027-01-13,Victoriaville,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33026/
+352,2027-01-14,Sherbrooke,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32667/
+353,2027-01-14,Halifax,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33027/
+354,2027-01-14,Saint John,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33120/
+355,2027-01-15,Québec,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32958/
+356,2027-01-15,Moncton,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32767/
+357,2027-01-15,Saint John,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32798/
+358,2027-01-15,Blainville-Boisbriand,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32864/
+359,2027-01-15,Drummondville,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33184/
+360,2027-01-15,Cape Breton,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33221/
+361,2027-01-16,Halifax,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32668/
+366,2027-01-16,Drummondville,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33055/
+363,2027-01-16,Shawinigan,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33185/
+362,2027-01-16,Cape Breton,,Sherbrooke,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33155/
+364,2027-01-16,Québec,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32959/
+365,2027-01-16,Charlottetown,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32928/
+367,2027-01-17,Kingston - OHL,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32703/
+370,2027-01-17,Halifax,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32799/
+369,2027-01-17,Saint John,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32669/
+371,2027-01-17,Shawinigan,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33056/
+372,2027-01-20,Charlottetown,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32896/
+373,2027-01-20,Victoriaville,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32800/
+374,2027-01-20,Sherbrooke,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32831/
+375,2027-01-20,Rimouski,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33186/
+376,2027-01-21,Gatineau,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32734/
+377,2027-01-21,Moncton,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33089/
+378,2027-01-21,Victoriaville,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32670/
+379,2027-01-21,Rimouski,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33057/
+380,2027-01-22,Gatineau,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32735/
+381,2027-01-22,Halifax,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32768/
+384,2027-01-22,Rimouski,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33058/
+383,2027-01-22,Québec,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32832/
+385,2027-01-22,North Bay - OHL,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33187/
+382,2027-01-22,Sherbrooke,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32704/
+386,2027-01-23,Shawinigan,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32671/
+387,2027-01-23,Moncton,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32960/
+388,2027-01-23,Saint John,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32897/
+389,2027-01-24,Moncton,,Newfoundland,,3:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32961/
+390,2027-01-24,Cape Breton,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32769/
+391,2027-01-24,Gatineau,,Saint John,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33090/
+392,2027-01-24,Chicoutimi,,Québec,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32993/
+393,2027-01-24,Blainville-Boisbriand,,Sherbrooke,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33156/
+394,2027-01-24,Shawinigan,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32672/
+396,2027-01-24,Val-d'Or,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33059/
+395,2027-01-24,Victoriaville,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32833/
+397,2027-01-27,Chicoutimi,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32898/
+399,2027-01-27,Baie-Comeau,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32994/
+398,2027-01-27,Shawinigan,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32705/
+400,2027-01-28,Chicoutimi,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32929/
+402,2027-01-28,Val-d'Or,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33028/
+401,2027-01-28,Baie-Comeau,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32834/
+403,2027-01-29,Halifax,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32736/
+404,2027-01-29,Sherbrooke,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32770/
+406,2027-01-29,Baie-Comeau,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32995/
+407,2027-01-29,Val-d'Or,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33029/
+408,2027-01-29,Rouyn-Noranda,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33222/
+405,2027-01-29,Newfoundland,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32706/
+409,2027-01-30,Chicoutimi,,Saint John,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33091/
+410,2027-01-30,Newfoundland,,Gatineau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32865/
+411,2027-01-30,Rouyn-Noranda,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33121/
+412,2027-01-30,Sherbrooke,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32930/
+413,2027-01-31,Chicoutimi,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32771/
+415,2027-01-31,Sherbrooke,,Saint John,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33092/
+414,2027-01-31,Cape Breton,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32931/
+418,2027-01-31,Val-d'Or,,Québec,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32996/
+419,2027-01-31,Drummondville,,Rimouski,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33030/
+417,2027-01-31,Newfoundland,,Gatineau,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32866/
+416,2027-01-31,Rouyn-Noranda,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32707/
+420,2027-01-31,Victoriaville,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33122/
+422,2027-02-03,Moncton,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32997/
+421,2027-02-03,Newfoundland,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32835/
+424,2027-02-04,Rimouski,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32899/
+423,2027-02-04,Cape Breton,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32772/
+425,2027-02-04,Blainville-Boisbriand,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33060/
+426,2027-02-05,Saint John,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32773/
+428,2027-02-05,Drummondville,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32801/
+427,2027-02-05,Moncton,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32673/
+429,2027-02-05,Newfoundland,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33123/
+431,2027-02-05,Blainville-Boisbriand,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33188/
+432,2027-02-05,Québec,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33223/
+430,2027-02-05,Gatineau,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33157/
+433,2027-02-06,Charlottetown,,Halifax,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32900/
+435,2027-02-06,Moncton,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32802/
+434,2027-02-06,Drummondville,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32674/
+437,2027-02-06,Gatineau,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33224/
+438,2027-02-06,Rimouski,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32737/
+436,2027-02-06,Sherbrooke,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32998/
+439,2027-02-07,Rimouski,,Cape Breton,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32738/
+440,2027-02-07,Halifax,,Saint John,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33093/
+443,2027-02-07,Rouyn-Noranda,,Val-d'Or,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33189/
+441,2027-02-07,Gatineau,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32708/
+442,2027-02-07,Shawinigan,,Sherbrooke,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33158/
+444,2027-02-10,Moncton,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32739/
+445,2027-02-10,Baie-Comeau,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33190/
+446,2027-02-11,Saint John,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32962/
+447,2027-02-11,Gatineau,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33124/
+449,2027-02-11,Baie-Comeau,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33191/
+448,2027-02-11,Victoriaville,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33159/
+450,2027-02-12,Saint John,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32963/
+451,2027-02-12,Halifax,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32932/
+452,2027-02-12,Québec,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32803/
+454,2027-02-12,Shawinigan,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33031/
+455,2027-02-12,Baie-Comeau,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33061/
+453,2027-02-12,Blainville-Boisbriand,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32836/
+456,2027-02-13,Blainville-Boisbriand,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32804/
+458,2027-02-13,Victoriaville,,Gatineau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32867/
+457,2027-02-13,Charlottetown,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32837/
+459,2027-02-13,Sherbrooke,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33192/
+460,2027-02-13,Cape Breton,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32901/
+461,2027-02-14,Québec,,Rimouski,,2:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33032/
+462,2027-02-14,Sherbrooke,,Rouyn-Noranda,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33062/
+463,2027-02-14,Charlottetown,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33125/
+464,2027-02-15,Moncton,,Halifax,,2:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32902/
+465,2027-02-15,Cape Breton,,Saint John,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33094/
+466,2027-02-16,Charlottetown,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32999/
+467,2027-02-17,Charlottetown,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32709/
+468,2027-02-18,Halifax,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33095/
+470,2027-02-18,Rimouski,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32805/
+469,2027-02-18,Val-d'Or,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32675/
+472,2027-02-18,Shawinigan,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33225/
+471,2027-02-18,Rouyn-Noranda,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33160/
+473,2027-02-19,Drummondville,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32740/
+474,2027-02-19,Rouyn-Noranda,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32868/
+475,2027-02-19,Victoriaville,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33126/
+476,2027-02-19,Québec,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33161/
+478,2027-02-20,Val-d'Or,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32806/
+477,2027-02-20,Rimouski,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32676/
+479,2027-02-20,Québec,,Gatineau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32869/
+480,2027-02-20,Charlottetown,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32964/
+482,2027-02-20,Saint John,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32933/
+481,2027-02-20,Drummondville,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32741/
+483,2027-02-21,Charlottetown,,Newfoundland,,3:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32965/
+484,2027-02-21,Saint John,,Halifax,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32903/
+485,2027-02-21,Victoriaville,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32710/
+270,2027-02-21,Shawinigan,,Sherbrooke,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33149/
+487,2027-02-21,Val-d'Or,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32807/
+486,2027-02-21,Rimouski,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32677/
+488,2027-02-21,Sudbury - OHL,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33063/
+490,2027-02-24,Newfoundland,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32742/
+491,2027-02-24,Shawinigan,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33096/
+493,2027-02-24,Halifax,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33000/
+492,2027-02-24,Gatineau,,Chicoutimi,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32808/
+494,2027-02-26,Shawinigan,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32743/
+495,2027-02-26,Blainville-Boisbriand,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32774/
+496,2027-02-26,Newfoundland,,Saint John,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33097/
+497,2027-02-26,Gatineau,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32678/
+499,2027-02-26,Chicoutimi,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33033/
+498,2027-02-26,Québec,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32838/
+500,2027-02-26,Halifax,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33193/
+501,2027-02-26,Sherbrooke,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33226/
+502,2027-02-27,Blainville-Boisbriand,,Saint John,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33098/
+503,2027-02-27,Gatineau,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32679/
+504,2027-02-27,Chicoutimi,,Rimouski,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33034/
+505,2027-02-27,Halifax,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33064/
+506,2027-02-27,Drummondville,,Sherbrooke,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33162/
+508,2027-02-27,Newfoundland,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32934/
+507,2027-02-27,Shawinigan,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32744/
+509,2027-02-28,Newfoundland,,Charlottetown,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32775/
+510,2027-02-28,Blainville-Boisbriand,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32935/
+511,2027-02-28,Rouyn-Noranda,,Val-d'Or,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33194/
+512,2027-02-28,Drummondville,,Victoriaville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33227/
+513,2027-03-01,Chicoutimi,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33001/
+515,2027-03-03,Newfoundland,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32936/
+514,2027-03-03,Victoriaville,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32776/
+516,2027-03-03,Cape Breton,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33065/
+517,2027-03-04,Sherbrooke,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32904/
+519,2027-03-04,Rimouski,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32870/
+520,2027-03-04,Chicoutimi,,Shawinigan,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33128/
+521,2027-03-04,Cape Breton,,Val-d'Or,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33195/
+518,2027-03-04,Drummondville,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32711/
+522,2027-03-05,Victoriaville,,Moncton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32937/
+523,2027-03-05,Québec,,Baie-Comeau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32680/
+526,2027-03-05,Val-d'Or,,Rouyn-Noranda,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33066/
+525,2027-03-05,Rimouski,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32871/
+524,2027-03-05,Chicoutimi,,Drummondville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32839/
+527,2027-03-06,Charlottetown,,Saint John,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33099/
+528,2027-03-06,Québec,,Baie-Comeau,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32681/
+529,2027-03-06,Cape Breton,,Rouyn-Noranda,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33067/
+530,2027-03-06,Blainville-Boisbriand,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33129/
+531,2027-03-06,Sherbrooke,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32966/
+532,2027-03-06,Victoriaville,,Halifax,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32905/
+533,2027-03-07,Sherbrooke,,Newfoundland,,3:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32967/
+535,2027-03-07,Victoriaville,,Saint John,,3:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/33100/
+534,2027-03-07,Halifax,,Moncton,,4:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32938/
+537,2027-03-07,Cape Breton,,Val-d'Or,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33196/
+536,2027-03-07,Gatineau,,Blainville-Boisbriand,,3:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32712/
+538,2027-03-07,Québec,,Chicoutimi,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32809/
+539,2027-03-07,Rimouski,,Drummondville,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32840/
+540,2027-03-10,Shawinigan,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33002/
+541,2027-03-11,Moncton,,Charlottetown,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32777/
+543,2027-03-11,Baie-Comeau,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33035/
+542,2027-03-11,Val-d'Or,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32872/
+545,2027-03-11,Rouyn-Noranda,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33228/
+544,2027-03-11,Saint John,,Sherbrooke,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33163/
+546,2027-03-12,Halifax,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32968/
+549,2027-03-12,Saint John,,Québec,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33003/
+550,2027-03-12,Baie-Comeau,,Rimouski,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33036/
+548,2027-03-12,Drummondville,,Gatineau,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32873/
+551,2027-03-12,Chicoutimi,,Victoriaville,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33229/
+547,2027-03-12,Val-d'Or,,Blainville-Boisbriand,,7:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32713/
+553,2027-03-13,Québec,,Shawinigan,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33130/
+552,2027-03-13,Rouyn-Noranda,,Blainville-Boisbriand,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/32714/
+554,2027-03-13,Chicoutimi,,Sherbrooke,,4:00 pm EST,https://chl.ca/lhjmq/en/gamecentre/33164/
+555,2027-03-13,Halifax,,Newfoundland,,7:00 pm NST,https://chl.ca/lhjmq/en/gamecentre/32969/
+556,2027-03-13,Charlottetown,,Cape Breton,,7:00 pm AST,https://chl.ca/lhjmq/en/gamecentre/32745/
+557,2027-03-14,Moncton,,Cape Breton,,3:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32746/
+559,2027-03-14,Saint John,,Rimouski,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33037/
+558,2027-03-14,Rouyn-Noranda,,Gatineau,,3:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32874/
+561,2027-03-14,Val-d'Or,,Shawinigan,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33131/
+560,2027-03-14,Sherbrooke,,Drummondville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32841/
+562,2027-03-14,Baie-Comeau,,Victoriaville,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33230/
+563,2027-03-19,Cape Breton,,Newfoundland,,7:00 pm NDT,https://chl.ca/lhjmq/en/gamecentre/32970/
+565,2027-03-19,Saint John,,Moncton,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32939/
+564,2027-03-19,Halifax,,Charlottetown,,7:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32778/
+568,2027-03-19,Sherbrooke,,Québec,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33004/
+566,2027-03-19,Baie-Comeau,,Chicoutimi,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32810/
+569,2027-03-19,Victoriaville,,Rouyn-Noranda,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33068/
+570,2027-03-19,Rimouski,,Shawinigan,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33132/
+567,2027-03-19,Blainville-Boisbriand,,Drummondville,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32842/
+571,2027-03-19,Gatineau,,Val-d'Or,,7:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33197/
+572,2027-03-20,Cape Breton,,Newfoundland,,3:00 pm NDT,https://chl.ca/lhjmq/en/gamecentre/32971/
+573,2027-03-20,Moncton,,Halifax,,4:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/32906/
+574,2027-03-20,Charlottetown,,Saint John,,4:00 pm ADT,https://chl.ca/lhjmq/en/gamecentre/33101/
+576,2027-03-20,Rimouski,,Québec,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33005/
+575,2027-03-20,Chicoutimi,,Baie-Comeau,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/32682/
+577,2027-03-20,Gatineau,,Rouyn-Noranda,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33069/
+578,2027-03-20,Drummondville,,Shawinigan,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33133/
+580,2027-03-20,Victoriaville,,Val-d'Or,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33198/
+579,2027-03-20,Blainville-Boisbriand,,Sherbrooke,,4:00 pm EDT,https://chl.ca/lhjmq/en/gamecentre/33165/
