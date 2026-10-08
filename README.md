@@ -1,0 +1,1 @@
+# qmjhl-xg-and-win-predictions-2026-27
